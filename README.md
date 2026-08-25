@@ -1,18 +1,18 @@
-\# ProcrastinationGuard
+# ProcrastinationGuard
 
 Aplicación para combatir la procrastinación mediante gestión de tareas, control del tiempo, recompensas y mecanismos de responsabilidad.
 
-\## Estado
+## Estado
+
 Desarrollo inicial.
 
-\## Estructura
-\- `android/` — Aplicación Android.
+## Estructura
 
-\- `core/` — Lógica principal del sistema.
+- `android/` — Aplicación Android.
+- `core/` — Lógica principal del sistema.
+- `docs/` — Documentación.
+- `tests/` — Pruebas.
 
-\- `docs/` — Documentación.
+## Desarrollo
 
-\- `tests/` — Pruebas.
-
-\## Desarrollo
 Proyecto en desarrollo.
